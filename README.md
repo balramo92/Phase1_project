@@ -2,6 +2,10 @@
 
 My company is expanding in to new industries to diversify its portfolio. Specifically, we are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. I am charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. I must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
+# Data
+
+In the data folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+
 # Data Understanding
 
 After exploring the schema:
@@ -74,4 +78,26 @@ After looking at the data: Since our intended purpose of travel is Corporate tra
 ## Next Steps
 
 We have researched planes from a safety perspective. Next we would need to look at the data from other angles as mentioned in the limitation section e.g. budget, passenger capacity flight range etc.
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./notebook.ipynb) or review this [presentation](./presentation_phase_1.pdf).
+
+To access the Tableau dashboard please use this [link](https://public.tableau.com/app/profile/balram.ottapathu/viz/AircraftDashboard_16889579776570/Dashboard1#1)
+
+For additional info, contact Balram Ottapathu at [balramo92@gmail.com](mailto:balramo92@gmail.com)
+
+
+
+## Repository Structure
+
+```
+├── data
+├── notebook.ipynb
+├── README.md
+├── presentation_phase_1
+``` 
+
+
+
 
