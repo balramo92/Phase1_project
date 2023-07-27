@@ -48,25 +48,25 @@ Based on the analysis above, I have reached conclusions and recommendations whic
 
 1. More Fatal Accidents have happened during personal travel than any other purpose of travel
 
-![img](.data/images/Fatbypurpose.png)
+![img](./data/images/Fatbypurpose.png)
 
 
 2. Weather plays a more important factor than the type of plane. Under poorer weather conditions with less visual clarity, nearly 80% of accidents are fatal accidents, whereas under better visual conditions, only ~20% of incidents are fatal
 
 Nearly 80% of accidents under VMC conditions are Non-Fatal as seen below.
 
-![img](.data/images/FatbyVMC.png)
+![img](./data/images/FatbyVMC.png)
 
 Nearly 60% of accidents under IMC conditions are Fatal as seen below
 
-![img](.data/images/FatbyIMC.png)
+![img](./data/images/FatbyIMC.png)
 
 Clearly weather plays a strong role in the cause of accidents
 
 
 3. Although Fatal accidents have been occuring until very recently. Not many have happened recently in Executive or Corporate/Jet travel
 
-![img](.data/images/FatbyYearexec.png)
+![img](./data/images/FatbyYearexec.png)
 
 
 4. Planes with Reciprocating engines are the ones with the highest number of fatalities, so it is best to avoid such planes. Turbojets have the lowest number of fatalities
@@ -76,7 +76,7 @@ Clearly weather plays a strong role in the cause of accidents
 
 5. According to the entire dataset, the most fatalities occured during the "Cruise" Phase of flight, however, the highest fatalities in executive/corporate travel occured during the "Approach" phase of the flight. Pilots flying corporate jets have to be particularly more careful when approaching
 
-![img](.data/images/Fatbyphase.png)
+![img](./data/images/Fatbyphase.png)
 
 
 ## Limitations
