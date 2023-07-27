@@ -47,10 +47,36 @@ Based on the analysis above, I have reached conclusions and recommendations whic
 # Conclusion
 
 1. More Fatal Accidents have happened during personal travel than any other purpose of travel
+
+![img](.data/images/Fatbypurpose.png)
+
+
 2. Weather plays a more important factor than the type of plane. Under poorer weather conditions with less visual clarity, nearly 80% of accidents are fatal accidents, whereas under better visual conditions, only ~20% of incidents are fatal
+
+Nearly 80% of accidents under VMC conditions are Non-Fatal as seen below.
+
+![img](.data/images/FatbyVMC.png)
+
+Nearly 60% of accidents under IMC conditions are Fatal as seen below
+
+![img](.data/images/FatbyIMC.png)
+
+Clearly weather plays a strong role in the cause of accidents
+
+
 3. Although Fatal accidents have been occuring until very recently. Not many have happened recently in Executive or Corporate/Jet travel
+
+![img](.data/images/FatbyYearexec.png)
+
+
 4. Planes with Reciprocating engines are the ones with the highest number of fatalities, so it is best to avoid such planes. Turbojets have the lowest number of fatalities
+
+![img](./data/images/FatbyEngine.png)
+
+
 5. According to the entire dataset, the most fatalities occured during the "Cruise" Phase of flight, however, the highest fatalities in executive/corporate travel occured during the "Approach" phase of the flight. Pilots flying corporate jets have to be particularly more careful when approaching
+
+![img](.data/images/Fatbyphase.png)
 
 
 ## Limitations
@@ -73,7 +99,14 @@ Based on the analysis above, I have reached conclusions and recommendations whic
 
 ## Recommendation
 
-After looking at the data: Since our intended purpose of travel is Corporate travel, Learjets are underrepresented in terms of total fatal accidents. Meaning Learjets make up 3% of the total incident/accident but only represent 1% of the total fatalities. So among the Learjet I would recommend one with a Turbojet engine as those are the ones with the least number of incidents and fatalities, so to name one model it would be a Learjet LR -25. There are other Makes of planes with lower number of fatalities than Learjet but those numbers are too small to have any statistical significance.However, it is quite clear that weather plays a crucial role in the fatalities, so regarless of which plane is used, it is always advisable to assess weather and visual conditions before traveling
+1. Avoid flying if inclement weather is forecasted. Weather plays a very strong role in creating accidents as the data has shown above. Therefore, it is very important that pilots pay attention to weather forecasts when preparing to travel. Executives must take calls to avoid travel if inclement weather is forecasted as the type of plane becomes irrelevant in that case.
+
+2. Avoid reciprocating engine as aircrafts with these engines are involved in the highest number of fatalities. Aircrafts with Turbojet engines have the lowest fatalities so I would recommend an aircraft with a Turbojet
+
+3. Develop Approach through the use of flight simulators. The highest number of fatalities have occured during the Approach phase of the flight. So it is very important that pilots take care and develop their approach skills through the use of flight simulators. 
+
+4. Final recommendation of aircraft:Since our intended purpose of travel is Corporate travel, Learjets are underrepresented in terms of total fatal accidents. Meaning Learjets make up 3% of the total incident/accident but only represent 1% of the total fatalities. So among the Learjet I would recommend one with a Turbojet engine as those are the ones with the least number of incidents and fatalities, so to name one model it would be a Learjet LR -25. There are other Makes of planes with lower number of fatalities than Learjet but those numbers are too small to have any statistical significance.
+
 
 ## Next Steps
 
